@@ -106,3 +106,6 @@ index.html                # Frontend entry point
 
 ### License
 MIT
+
+Coder: Jainer Junior Polo SIlvera
+Clan: sierra
